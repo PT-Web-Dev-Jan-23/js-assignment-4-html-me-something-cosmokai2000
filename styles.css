@@ -1,1 +1,36 @@
-/* Write your CSS here! */
+p {
+  margin-bottom: 0px;
+  margin-right: 150px;
+  margin-left: 80px;
+}
+
+h2 {
+  padding-top: 0px;
+  padding-right: 50px;
+  padding-left: 50px;
+}
+
+body {
+    margin: 8px;
+  display: block;
+  background-color:whitesmoke;
+}
+
+#mainHeading {
+    color: red;
+}
+
+.funParagraph {
+    color: green;
+}
+
+img {
+    margin-bottom: 100px;
+}
+
+header{
+    margin-top: 8px;
+    margin-bottom: 8px;
+    margin-right: 40%;
+    margin-left: 40%;
+}
